@@ -16,14 +16,22 @@ Playwright
 JavaScript
 VS Code
 
-1.How to Run Tests
+## How to run
+1. Install Node.js (v16 or newer recommended).
+2. In the `playwright_project` folder run:
+   ```bash
+   npm init -y
+   npm i -D @playwright/test
+   npx playwright install
+   ```
+   Or alternatively run the guided install:
+   ```bash
+   npm init playwright@latest
+   ```
+3. Run tests:
+   ```bash
+   npx playwright test
 
-npx playwright test
-
-
-2.To run with browser UI
-
-npx playwright test --headed
 
 Conclusion
 
