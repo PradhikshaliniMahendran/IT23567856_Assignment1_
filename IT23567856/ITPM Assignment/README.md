@@ -17,10 +17,12 @@ JavaScript
 VS Code
 
 1.How to Run Tests
+
 npx playwright test
 
 
 2.To run with browser UI
+
 npx playwright test --headed
 
 Conclusion
