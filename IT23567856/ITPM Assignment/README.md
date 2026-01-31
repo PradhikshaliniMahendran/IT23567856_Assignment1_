@@ -36,7 +36,7 @@ VS Code
 
 Conclusion
 
-*This project successfully demonstrates:
+This project successfully demonstrates:
 
 *Manual test case design (positive, negative, UI)
 
